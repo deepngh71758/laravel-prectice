@@ -49,6 +49,11 @@
             @endif
         </div>
 
+        <div class="flex gap-2 items-center">
+            <x-text-input id="Remove_picture" value="1" name="Remove_picture" type="checkbox" class=" block " />
+            <x-input-label for="Remove_picture" :value="__('Remove profile picture')" />
+        </div>
+
         <div class="flex items-center gap-4">
             <x-primary-button>{{ __('Save') }}</x-primary-button>
 
@@ -60,6 +65,7 @@
             <h2 class="text-lg font-medium text-gray-900 dark:text-gray-100">
                 {{ __('Profile Picture') }}
             </h2>
+
             </header>
             @if($user->profile_picture)
                 <div class="mb-3 ">
@@ -74,6 +80,7 @@
                 Choose File
             <input type="file" name="profile_picture" id="profile_picture" hidden >
             </label>
+            <x-input-error class="mt-2" :messages="$errors->get('profile_picture')" />
 
              @if (session('status') === 'profile-updated')
                 <p
