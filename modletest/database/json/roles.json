@@ -1,0 +1,17 @@
+[
+    {
+        "role":"Author"
+    },
+    {
+        "role":"Admin"
+    },
+    {
+        "role":"Salesmen"
+    },
+    {
+        "role":"Vendor"
+    },
+    {
+        "role":"Producer"
+    }
+]

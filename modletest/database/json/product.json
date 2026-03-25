@@ -1,0 +1,94 @@
+[
+    {
+        "name":"t-shirt",
+        "price":"600",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/SRkP0bg522udiUJnUQAyUhHFmnMhl2u27cHHFLYj.jpg",
+        "person_id":"1"
+    },
+    {
+        "name":"shirt",
+        "price":"400",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/lP6ECmcMRl2ykfEarCAruvBAlrTrvo7jAOl4c7Wx.jpg",
+        "person_id":"2"
+        
+    },
+    {
+        "name":"t-shirt",
+        "price":"500",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/Pfko2ToDIoDDXfklZBch9lVXG5Z7xYw4zQbBI1EZ.webp",
+        "person_id":"3"
+    },
+    {
+        "name":"t-shirt",
+        "price":"200",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/SRkP0bg522udiUJnUQAyUhHFmnMhl2u27cHHFLYj.jpg",
+        "person_id":"4"
+    },
+    {
+        "name":"t-shirt",
+        "price":"700",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/lP6ECmcMRl2ykfEarCAruvBAlrTrvo7jAOl4c7Wx.jpg",
+        "person_id":"1"
+    },
+    {
+        "name":"t-shirt",
+        "price":"400",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/Pfko2ToDIoDDXfklZBch9lVXG5Z7xYw4zQbBI1EZ.webp",
+        "person_id":"2"
+    },
+    {
+        "name":"t-shirt",
+        "price":"600",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/SRkP0bg522udiUJnUQAyUhHFmnMhl2u27cHHFLYj.jpg",
+        "person_id":"3"
+    },
+    {
+        "name":"t-shirt",
+        "price":"700",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/lP6ECmcMRl2ykfEarCAruvBAlrTrvo7jAOl4c7Wx.jpg",
+        "person_id":"4"
+    },
+    {
+        "name":"t-shirt",
+        "price":"600",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/Pfko2ToDIoDDXfklZBch9lVXG5Z7xYw4zQbBI1EZ.webp",
+        "person_id":"1"
+    },
+    {
+        "name":"t-shirt",
+        "price":"200",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/SRkP0bg522udiUJnUQAyUhHFmnMhl2u27cHHFLYj.jpg",
+        "person_id":"2"
+    },
+    {
+        "name":"t-shirt",
+        "price":"800",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/lP6ECmcMRl2ykfEarCAruvBAlrTrvo7jAOl4c7Wx.jpg",
+        "person_id":"4"
+    },
+    {
+        "name":"t-shirt",
+        "price":"600",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/Pfko2ToDIoDDXfklZBch9lVXG5Z7xYw4zQbBI1EZ.webp",
+        "person_id":"3"
+    },
+    {
+        "name":"t-shirt",
+        "price":"400",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur omnis, eaque vero autem eligendi alias ab fuga magnam impedit aliquam praesentium debitis, veritatis fugit eum itaque reprehenderit facilis quas amet.",
+        "img":"photos/SRkP0bg522udiUJnUQAyUhHFmnMhl2u27cHHFLYj.jpg",
+        "person_id":"1"
+    }
+]
